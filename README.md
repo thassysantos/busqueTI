@@ -1,4 +1,5 @@
-## **README.md - BusqueTI: Seu Dicionário de Termos Técnicos**
+## **BusqueTI: Seu Dicionário de Termos Técnicos**
+**Imersão Dev com Google Gemini**
 
 ### **O que é o BusqueTI?**
 
